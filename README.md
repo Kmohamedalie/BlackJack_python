@@ -10,7 +10,15 @@ The following game was developed as part of an hands on programming with [python
 <br>
 
 
-https://github.com/Kmohamedalie/BlackJack_python/assets/63104472/58f2e03e-5bc7-420d-bd7b-61d13803e227
+
+
+
+
+
+
+
+https://github.com/Kmohamedalie/BlackJack_python/assets/63104472/2a8b50bd-b3ea-45dc-a87b-be0eccd46fb7
+
 
 
 
