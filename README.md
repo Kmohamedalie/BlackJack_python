@@ -1,2 +1,2 @@
-# BlackJack_python
-BlackJack python programming  ♠️♥️♦️♣️🎲🎰
+# BlackJack python Tkinter 
+BlackJack python programming with Tkinter ♦️🎲🎰
